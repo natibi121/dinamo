@@ -1,0 +1,23 @@
+body{
+    background-color: bisque;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
+h1{
+    font-weight: bold;
+    
+}
+p{
+    text-align: justify;
+}
+h2{
+    text-align: center;
+}
+#fontos{
+    font-weight: bolder;
+    text-decoration: underline;
+}
